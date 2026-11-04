@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Sentinelxai-dev/.github/main/profile/assets/banner.png" alt="SentinelX, the Consequence Boundary Company" width="100%" />
+<img src="https://raw.githubusercontent.com/Sentinelxai-dev/.github/main/profile/assets/banner.png?v=2" alt="SentinelX, the Consequence Boundary Company" width="100%" />
 
 ### Secure the action, not the prompt.
 
@@ -6,7 +6,7 @@ Agents act. SentinelX decides whether a protected action is allowed to commit, b
 
 [![sentinelx.ai](https://img.shields.io/badge/sentinelx.ai-332A44?style=flat-square)](https://sentinelx.ai)
 [![Request API access](https://img.shields.io/badge/Request_API_access-201A25?style=flat-square)](https://sentinelx.ai)
-[![Contact](https://img.shields.io/badge/enforce@sentinelx.ai-FBF7EF?style=flat-square&labelColor=FBF7EF)](mailto:enforce@sentinelx.ai)
+[![Contact](https://img.shields.io/badge/enforce@sentinelx.ai-FFFFFF?style=flat-square&labelColor=FFFFFF)](mailto:enforce@sentinelx.ai)
 
 #### Official SDKs
 
