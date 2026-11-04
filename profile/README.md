@@ -1,33 +1,22 @@
-<div align="center">
+<img src="https://raw.githubusercontent.com/Sentinelxai-dev/.github/main/profile/assets/banner.png" alt="SentinelX, the Consequence Boundary Company" width="100%" />
 
-<img src="https://raw.githubusercontent.com/Sentinelxai-dev/.github/main/profile/assets/logo.png" width="120" alt="SentinelX" />
+### Secure the action, not the prompt.
 
-# SentinelX
+Agents act. SentinelX decides whether a protected action is allowed to commit, before it happens, and leaves evidence of the decision.
 
-**Security for AI agents.**
+[![sentinelx.ai](https://img.shields.io/badge/sentinelx.ai-332A44?style=flat-square)](https://sentinelx.ai)
+[![Request API access](https://img.shields.io/badge/Request_API_access-201A25?style=flat-square)](https://sentinelx.ai)
+[![Contact](https://img.shields.io/badge/enforce@sentinelx.ai-FBF7EF?style=flat-square&labelColor=FBF7EF)](mailto:enforce@sentinelx.ai)
 
-[![Website](https://img.shields.io/badge/sentinelx.ai-111111?style=for-the-badge)](https://sentinelx.ai)
-[![Contact](https://img.shields.io/badge/enforce%40sentinelx.ai-F4F0E8?style=for-the-badge&labelColor=F4F0E8&color=F4F0E8)](mailto:enforce@sentinelx.ai)
+#### Official SDKs
 
-</div>
+| Language | Install |
+|---|---|
+| [TypeScript](https://www.npmjs.com/package/@sentinelx/sdk) | `npm install @sentinelx/sdk` |
+| [Python](https://github.com/Sentinelxai-dev/sentinelx-py) | `pip install sentinelx-sdk` |
+| [Rust](https://github.com/Sentinelxai-dev/sentinelx-rs) | `cargo add sentinelx` |
+| [Go](https://github.com/Sentinelxai-dev/sentinelx-go) | `go get github.com/Sentinelxai-dev/sentinelx-go` |
 
----
+SentinelX v3 is coming soon.
 
-### Official SDKs
-
-| Language | Install | Repository |
-|---|---|---|
-| **TypeScript / JavaScript** | `npm install @sentinelx/sdk` | [npm](https://www.npmjs.com/package/@sentinelx/sdk) |
-| **Python** | `pip install sentinelx-sdk` | [sentinelx-py](https://github.com/Sentinelxai-dev/sentinelx-py) |
-| **Rust** | `cargo add sentinelx` | [sentinelx-rs](https://github.com/Sentinelxai-dev/sentinelx-rs) |
-| **Go** | `go get github.com/Sentinelxai-dev/sentinelx-go` | [sentinelx-go](https://github.com/Sentinelxai-dev/sentinelx-go) |
-
-All SDKs work with the current SentinelX API at `https://enforce.sentinelx.ai`.
-
-> **SentinelX v3 is coming soon.**
-
----
-
-<div align="center">
-<sub>© 2026 SentinelXAI, Inc. · <a href="https://sentinelx.ai">sentinelx.ai</a></sub>
-</div>
+<sub>© 2026 SentinelXAI, Inc.</sub>
