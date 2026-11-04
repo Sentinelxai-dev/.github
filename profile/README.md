@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Sentinelxai-dev/.github/main/profile/assets/banner.png?v=2" alt="SentinelX, the Consequence Boundary Company" width="100%" />
+<img src="https://raw.githubusercontent.com/Sentinelxai-dev/.github/main/profile/assets/banner.png?v=3" alt="SentinelX, the Consequence Boundary Company" width="100%" />
 
 ### Secure the action, not the prompt.
 
